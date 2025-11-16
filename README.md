@@ -1,8 +1,3 @@
-Below is a polished **README.md** you can copy directly into GitHub or submit as part of your project.
-If you'd like, I can also generate a PDF or DOCX version.
-
----
-
 # Analyzing Customer Orders Using Python
 
 ## Overview
@@ -15,7 +10,7 @@ The goal is to:
 * Identify cross-category purchasing patterns
 * Generate a written summary report
 
-The project was completed without external libraries, using only native Python structures to illustrate how much insight can be extracted from straightforward data representations.
+The project was completed without relying on external libraries, utilizing only native Python structures to demonstrate the insight that can be extracted from straightforward data representations.
 
 ---
 
